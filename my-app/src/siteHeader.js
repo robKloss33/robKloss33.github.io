@@ -1,9 +1,10 @@
+import "./siteHeader.css"
 function SiteHeader({name}) {
     return (
         <>
-            <h1>
+            <div className = "hugeSiteHeader">
                 {name}
-            </h1>
+            </div>
         </>
       );
   }

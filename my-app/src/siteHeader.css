@@ -1,3 +1,5 @@
-h1{
-    font-size:25vw;
+.hugeSiteHeader{
+    font-size:15vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blanchedalmond;
 }
